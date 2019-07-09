@@ -1,0 +1,755 @@
+{
+    "现言": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "现代言情"
+            },
+            {
+                "id": "250",
+                "name": "唯美童话",
+                "relatedName": "唯美童话"
+            },
+            {
+                "id": "261",
+                "name": "虐文",
+                "relatedName": "悲情虐文"
+            },
+            {
+                "id": "249",
+                "name": "网游",
+                "relatedName": "网络情缘"
+            }
+        ],
+        "tag": [
+            {
+                "id": "1363",
+                "name": "总裁",
+                "relatedName": "总裁"
+            },
+            {
+                "id": "1043",
+                "name": "宝宝",
+                "relatedName": "宝宝"
+            },
+            {
+                "id": "272",
+                "name": "爽文",
+                "relatedName": "爽文"
+            },
+            {
+                "id": "88892",
+                "name": "宠文",
+                "relatedName": "宠文"
+            },
+            {
+                "id": "723",
+                "name": "腹黑",
+                "relatedName": "腹黑"
+            },
+            {
+                "id": "1098",
+                "name": "情感",
+                "relatedName": "情感"
+            },
+            {
+                "id": "2720",
+                "name": "现代",
+                "relatedName": "现代"
+            }
+        ]
+    },
+    "古言":{
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "古代言情"
+            },
+            {
+                "id": "260",
+                "name": "情仇爱恨",
+                "relatedName": "情仇爱恨"
+            }
+        ],
+        "tag": [
+            {
+                "id": "2888",
+                "name": "王妃",
+                "relatedName": "王妃"
+            },
+            {
+                "id": "984",
+                "name": "种田",
+                "relatedName": "种田"
+            },
+            {
+                "id": "103150",
+                "name": "嫡女",
+                "relatedName": "嫡女"
+            }
+        ]
+    },
+    "幻言":{
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "幻想言情"
+            },
+            {
+                "id": "255",
+                "name": "江湖奇缘",
+                "relatedName": "江湖奇缘"
+            }
+        ],
+        "tag": [
+            {
+                "id": "2077",
+                "name": "幻想",
+                "relatedName": "幻想"
+            }
+        ]
+    },
+    "校园": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "校园"
+            },
+            {
+                "id": "323",
+                "name": "青春疼痛",
+                "relatedName": "青春疼痛"
+            }
+        ],
+        "tag": [
+            {
+                "id": "274",
+                "name": "学生",
+                "relatedName": "学生"
+            },
+            {
+                "id": "763",
+                "name": "校园",
+                "relatedName": "校园"
+            },
+            {
+                "id": "1261",
+                "name": "唯美",
+                "relatedName": "唯美"
+            },
+            {
+                "id": "41085",
+                "name": "萌系",
+                "relatedName": "萌系"
+            },
+            {
+                "id": "756",
+                "name": "青梅竹马",
+                "relatedName": "青梅竹马"
+            },
+            {
+                "id": "407265",
+                "name": "校园风云",
+                "relatedName": "校园风云"
+            },
+            {
+                "id": "350",
+                "name": "搞笑",
+                "relatedName": "搞笑"
+            }
+        ]
+    },
+    "都市": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "都市"
+            },
+            {
+                "id": "121",
+                "name": "生活",
+                "relatedName": "都市生活"
+            },
+            {
+                "id": "122",
+                "name": "异能",
+                "relatedName": "都市异能"
+            },
+            {
+                "id": "334",
+                "name": "重生",
+                "relatedName": "都市重生"
+            },
+            {
+                "id": "339",
+                "name": "热血",
+                "relatedName": "都市热血"
+            },
+            {
+                "id": "338",
+                "name": "都市人生",
+                "relatedName": "都市人生"
+            },
+            {
+                "id": "52",
+                "name": "极道江湖",
+                "relatedName": "极道江湖"
+            },
+            {
+                "id": "336",
+                "name": "社会",
+                "relatedName": "社会百态"
+            },
+            {
+                "id": "340",
+                "name": "商战",
+                "relatedName": "商战风云"
+            },
+            {
+                "id": "341",
+                "name": "娱乐",
+                "relatedName": "娱乐明星"
+            },
+            {
+                "id": "342",
+                "name": "职场",
+                "relatedName": "职场励志"
+            },
+            {
+                "id": "344",
+                "name": "其他都市",
+                "relatedName": "其他都市"
+            }
+        ],
+        "tag": [
+            {
+                "id": "5628",
+                "name": "美女如云",
+                "relatedName": "美女如云"
+            },
+            {
+                "id": "184194",
+                "name": "兵王",
+                "relatedName": "兵王"
+            },
+            {
+                "id": "8466",
+                "name": "保镖",
+                "relatedName": "保镖"
+            },
+            {
+                "id": "542",
+                "name": "医生",
+                "relatedName": "医生"
+            }
+        ]
+    },
+    "玄幻": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "玄幻"
+            },
+            {
+                "id": "121",
+                "name": "生活",
+                "relatedName": "都市生活"
+            },
+            {
+                "id": "122",
+                "name": "异能",
+                "relatedName": "都市异能"
+            },
+            {
+                "id": "334",
+                "name": "重生",
+                "relatedName": "都市重生"
+            },
+            {
+                "id": "339",
+                "name": "热血",
+                "relatedName": "都市热血"
+            },
+            {
+                "id": "338",
+                "name": "都市人生",
+                "relatedName": "都市人生"
+            },
+            {
+                "id": "52",
+                "name": "极道江湖",
+                "relatedName": "极道江湖"
+            },
+            {
+                "id": "336",
+                "name": "社会",
+                "relatedName": "社会百态"
+            },
+            {
+                "id": "340",
+                "name": "商战",
+                "relatedName": "商战风云"
+            },
+            {
+                "id": "341",
+                "name": "娱乐",
+                "relatedName": "娱乐明星"
+            },
+            {
+                "id": "342",
+                "name": "职场",
+                "relatedName": "职场励志"
+            },
+            {
+                "id": "344",
+                "name": "其他都市",
+                "relatedName": "其他都市"
+            }
+        ],
+        "tag": [
+            {
+                "id": "5628",
+                "name": "美女如云",
+                "relatedName": "美女如云"
+            },
+            {
+                "id": "184194",
+                "name": "兵王",
+                "relatedName": "兵王"
+            },
+            {
+                "id": "8466",
+                "name": "保镖",
+                "relatedName": "保镖"
+            },
+            {
+                "id": "542",
+                "name": "医生",
+                "relatedName": "医生"
+            }
+        ]
+    },
+    "仙侠": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "仙侠"
+            },
+            {
+                "id": "6",
+                "name": "现代修真",
+                "relatedName": "现代修真"
+            },
+            {
+                "id": "310",
+                "name": "奇幻修真",
+                "relatedName": "奇幻修真"
+            },
+            {
+                "id": "311",
+                "name": "洪荒封神",
+                "relatedName": "洪荒封神"
+            },
+            {
+                "id": "309",
+                "name": "古典仙侠",
+                "relatedName": "古典仙侠"
+            }
+        ],
+        "tag": [
+            {
+                "id": "29398",
+                "name": "凡人",
+                "relatedName": "凡人"
+            },
+            {
+                "id": "1053",
+                "name": "丹药",
+                "relatedName": "丹药"
+            },
+            {
+                "id": "505",
+                "name": "法宝",
+                "relatedName": "法宝"
+            }
+        ]
+    },
+    "灵异": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "灵异"
+            },
+            {
+                "id": "313",
+                "name": "灵异鬼怪",
+                "relatedName": "灵异鬼怪"
+            },
+            {
+                "id": "314",
+                "name": "恐怖惊悚",
+                "relatedName": "恐怖惊悚"
+            },
+            {
+                "id": "316",
+                "name": "悬疑探险",
+                "relatedName": "悬疑探险"
+            },
+            {
+                "id": "315",
+                "name": "侦探推理",
+                "relatedName": "侦探推理"
+            },
+            {
+                "id": "317",
+                "name": "神秘文化",
+                "relatedName": "神秘文化"
+            },
+            {
+                "id": "318",
+                "name": "其他灵异",
+                "relatedName": "其他灵异"
+            }
+        ],
+        "tag": [
+            {
+                "id": "3619",
+                "name": "风水",
+                "relatedName": "风水"
+            },
+            {
+                "id": "424",
+                "name": "僵尸",
+                "relatedName": "僵尸"
+            },
+            {
+                "id": "4330",
+                "name": "盗墓",
+                "relatedName": "盗墓"
+            }
+        ]
+    },
+    "历史": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "历史"
+            },
+            {
+                "id": "7",
+                "name": "架空历史",
+                "relatedName": "架空历史"
+            },
+            {
+                "id": "271",
+                "name": "两宋元明",
+                "relatedName": "两宋元明"
+            },
+            {
+                "id": "268",
+                "name": "秦汉三国",
+                "relatedName": "秦汉三国"
+            },
+            {
+                "id": "265",
+                "name": "上古先秦",
+                "relatedName": "上古先秦"
+            },
+            {
+                "id": "269",
+                "name": "两晋隋唐",
+                "relatedName": "两晋隋唐"
+            },
+            {
+                "id": "273",
+                "name": "历史传记",
+                "relatedName": "历史传记"
+            },
+            {
+                "id": "278",
+                "name": "其他历史",
+                "relatedName": "其他历史"
+            }
+        ],
+        "tag": [
+            {
+                "id": "1311",
+                "name": "权谋",
+                "relatedName": "权谋"
+            },
+            {
+                "id": "391",
+                "name": "乱世",
+                "relatedName": "乱世"
+            }
+        ]
+    },
+    "游戏": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "游戏"
+            },
+            {
+                "id": "364",
+                "name": "虚拟网游",
+                "relatedName": "虚拟网游"
+            },
+            {
+                "id": "366",
+                "name": "游戏异界",
+                "relatedName": "游戏异界"
+            },
+            {
+                "id": "365",
+                "name": "游戏人生",
+                "relatedName": "游戏人生"
+            },
+            {
+                "id": "368",
+                "name": "其他游戏",
+                "relatedName": "其他游戏"
+            }
+        ],
+        "tag": [
+            {
+                "id": "284",
+                "name": "技术流",
+                "relatedName": "技术流"
+            },
+            {
+                "id": "98137",
+                "name": "系统",
+                "relatedName": "系统"
+            }
+        ]
+    },
+    "科幻": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "科幻"
+            },
+            {
+                "id": "355",
+                "name": "未来世界",
+                "relatedName": "未来世界"
+            },
+            {
+                "id": "361",
+                "name": "进化变异",
+                "relatedName": "进化变异"
+            },
+            {
+                "id": "360",
+                "name": "星际战争",
+                "relatedName": "星际战争"
+            },
+            {
+                "id": "356",
+                "name": "时空穿梭",
+                "relatedName": "时空穿梭"
+            },
+            {
+                "id": "357",
+                "name": "科技时代",
+                "relatedName": "科技时代"
+            },
+            {
+                "id": "363",
+                "name": "其他科幻",
+                "relatedName": "其他科幻"
+            }
+        ],
+        "tag": [
+            {
+                "id": "3417",
+                "name": "末世",
+                "relatedName": "末世"
+            },
+            {
+                "id": "588",
+                "name": "机甲",
+                "relatedName": "机甲"
+            },
+            {
+                "id": "2481",
+                "name": "无限",
+                "relatedName": "无限"
+            }
+        ]
+    },
+    "武侠": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "武侠"
+            },
+            {
+                "id": "349",
+                "name": "传统武侠",
+                "relatedName": "传统武侠"
+            },
+            {
+                "id": "351",
+                "name": "新派武侠",
+                "relatedName": "新派武侠"
+            },
+            {
+                "id": "348",
+                "name": "幻武异侠",
+                "relatedName": "幻武异侠"
+            },
+            {
+                "id": "352",
+                "name": "其他武侠",
+                "relatedName": "其他武侠"
+            }
+        ],
+        "tag": [
+            {
+                "id": "649",
+                "name": "江湖",
+                "relatedName": "江湖"
+            },
+            {
+                "id": "6923",
+                "name": "古武",
+                "relatedName": "古武"
+            }
+        ]
+    },
+    "奇幻": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "现代奇幻"
+            },
+            {
+                "id": "5",
+                "name": "西方奇幻",
+                "relatedName": "西方奇幻"
+            },
+            {
+                "id": "303",
+                "name": "领主贵族",
+                "relatedName": "领主贵族"
+            },
+            {
+                "id": "304",
+                "name": "亡灵异族",
+                "relatedName": "亡灵异族"
+            },
+            {
+                "id": "302",
+                "name": "魔法校园",
+                "relatedName": "魔法校园"
+            },
+            {
+                "id": "305",
+                "name": "其他奇幻",
+                "relatedName": "其他奇幻"
+            }
+        ],
+        "tag": [
+            {
+                "id": "397",
+                "name": "魔法",
+                "relatedName": "魔法"
+            },
+            {
+                "id": "1673",
+                "name": "召唤",
+                "relatedName": "召唤"
+            },
+            {
+                "id": "1341",
+                "name": "异界",
+                "relatedName": "异界"
+            },
+            {
+                "id": "7384",
+                "name": "亡灵",
+                "relatedName": "亡灵"
+            },
+            {
+                "id": "423",
+                "name": "吸血鬼",
+                "relatedName": "吸血鬼"
+            }
+        ]
+    },
+    "竞技": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "竞技"
+            },
+            {
+                "id": "367",
+                "name": "电子竞技",
+                "relatedName": "电子竞技"
+            },
+            {
+                "id": "16",
+                "name": "体坛风云",
+                "relatedName": "体坛竞技"
+            },
+            {
+                "id": "15",
+                "name": "球类运动",
+                "relatedName": "球类运动"
+            },
+            {
+                "id": "17",
+                "name": "其他竞技",
+                "relatedName": "其他竞技"
+            }
+        ],
+        "tag": []
+    },
+    "其他": {
+        "class": [
+            {
+                "id": 11,
+                "name": "全部",
+                "relatedName": "其他"
+            },
+            {
+                "id": "328",
+                "name": "动漫衍伸",
+                "relatedName": "动漫同人"
+            },
+            {
+                "id": "329",
+                "name": "影视衍伸",
+                "relatedName": "影视同人"
+            },
+            {
+                "id": "327",
+                "name": "武侠衍伸",
+                "relatedName": "武侠同人"
+            },
+            {
+                "id": "330",
+                "name": "小说衍伸",
+                "relatedName": "小说同人"
+            }
+        ],
+        "tag": []
+    }
+}

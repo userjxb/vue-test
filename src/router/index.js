@@ -15,6 +15,10 @@ Vue.use( VueRouter );
 
 // 路由表
 const routes = [
+    {
+        path: '/',
+        redirect: 'category'
+    },
     // 个人中心
     {
         path: '/personal',
@@ -77,7 +81,7 @@ const routes = [
 // 定义路由
 const router = new VueRouter({
     routes,
-    mode: 'history'
+    mode: 'hash'
 });
 
 // 导出

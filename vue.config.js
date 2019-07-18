@@ -1,9 +1,7 @@
 
 const path = require('path');
 module.exports = {
-    build: {
-        assetsPublicPath: "./"
-    },
+    publicPath: './',
     // 路径别名
     chainWebpack: config => {
         config.resolve.alias

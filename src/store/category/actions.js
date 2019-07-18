@@ -20,7 +20,7 @@ export default {
     // 分类详情数据请求
     getCategoryDetails( { commit },title ) {
         axios({
-            url:'../json/secondCategory.json'
+            url:'json/secondCategory.json'
         })
         .then(res => {
             const action = {

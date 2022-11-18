@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-service": "^5.0.8",
     "better-scroll": "^1.15.2",
     "mint-ui": "^2.2.13",
     "stylus": "^0.54.5",
